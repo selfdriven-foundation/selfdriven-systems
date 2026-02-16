@@ -1,0 +1,18 @@
+title: "selfdriven Systems"
+description: "Systems that drive themselves"
+baseurl: ""
+url: ""
+
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: default
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - _well-known/

@@ -1,0 +1,19 @@
+{
+  "name": "selfdriven Systems",
+  "description": "Systems that driven themselves.",
+  "url": "https://www.selfdriven.systems",
+  "version": "1.0.0",
+  "provider": {
+    "organization": "selfdriven Foundation",
+    "url": "https://selfdriven.foundation"
+  },
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "skills": [
+  ],
+  "documentationUrl": "https://www.selfdriven.systems/.well-known/SKILL.md",
+  "defaultInputModes": ["text/plain"],
+  "defaultOutputModes": ["text/plain", "text/markdown"]
+}
