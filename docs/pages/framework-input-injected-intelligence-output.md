@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Input, Injected-Intelligence, Output - selfdriven AI
-permalink: /input-injected-intelligence-output-framework
+permalink: /framework/input-injected-intelligence-output
 ---
 
 # Input, Injected-Intelligence, Output Framework
