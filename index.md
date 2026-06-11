@@ -1,8 +1,3 @@
----
-layout: default
-title: selfdriven Systems
----
-
 ## Systems that drive themselves.
 - [A Framework for Open, Transparent, Decentralised Societal Systems](framework/open-transparent-decentralised-societal-systems)
 - [Input, Injected-Intelligence, Output Framework](framework/input-injected-intelligence-output)
